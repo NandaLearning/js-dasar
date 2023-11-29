@@ -1,0 +1,18 @@
+.judul {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column; /* Layout kolom */
+    justify-content: center;
+    align-items: stretch; /* Membuat elemen-elemen sama rata */
+    margin-top: 100px; /* Sesuaikan dengan kebutuhan Anda */
+}
+
+.random, .random2, .vs {
+    font-size: 36px;
+    margin: 10px 0; /* Sesuaikan dengan kebutuhan Anda */
+}
